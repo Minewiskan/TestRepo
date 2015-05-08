@@ -1,10 +1,12 @@
-﻿<properties pageTitle="Documentation Example - Table of Contents" metaKeywords="" description="This is an example document" services="" documentationCenter="" title="Documentation Example - Table of Contents" solutions="" authors="" videoId="" scriptId="" />
+<properties pageTitle="Documentation Example - Table of Contents" metaKeywords="" description="This is an example document" services="" documentationCenter="" title="Documentation Example - Table of Contents" solutions="" authors="" videoId="" scriptId="" />
 
 # Example - Large Document #
 
 This is a sample documentation article that is used to test and validate the publishing system for WindowsAzure.com.  
 
 The content between the lines below demonstrates a very large documentation article with a lot of images (size over 100Kb).  
+
+This is a test.
 
 
 ---

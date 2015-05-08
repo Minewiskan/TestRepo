@@ -1,8 +1,8 @@
-﻿<properties pageTitle="Documentation Example - Mark code" metaKeywords="" description="This is an example document" services="" documentationCenter="" title="Documentation Example - Inline code" solutions="" authors="" videoId="" scriptId="" />
+<properties pageTitle="Documentation Example - Mark code" metaKeywords="" description="This is an example document" services="" documentationCenter="" title="Documentation Example - Inline code" solutions="" authors="" videoId="" scriptId="" />
 
 # Example - Mark Code #
 
-This sample has been taken from http://www.asp.net/mvc/tutorials/mvc-5/introduction/adding-a-view to show how to add mark tags inside a snippet
+
 
 ---
 ...
